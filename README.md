@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **ArloesiTech Projects**
 
-- 🌱 I’m currently learning **Dart & Flutter**
+- 🌱 I’m currently learning **Dart & Flutter** and **ReactJS**
 
 - 📫 How to reach me **jaderfellip21@gmail.com and at Discord: Jader#8117**
 
